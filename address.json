@@ -1,0 +1,16 @@
+{
+    "mainnet":{
+        "rootChainId":1,
+        "childChainId":137,
+        "rootToken":"",
+        "fxERC20RootTunnel":"0xF1D80Ecb5de086b197EB2683513A3Da4061F0102",
+        "fxERC20ChildTunnel":"0x0cC2CaeD31490B546c741BD93dbba8Ab387f7F2c"
+    },
+    "testnet":{
+        "rootChainId":5,
+        "childChainId":80001,
+        "rootToken":"0x655f2166b0709cd575202630952d71e2bb0d61af",
+        "fxERC20RootTunnel":"0x79B77456684AEB0bf7c8Ec50FB9c714d52BdA46c",
+        "fxERC20ChildTunnel":"0x9dee38B0D819c78cEBAbc86707019dA18f25E6Cc"
+    }
+}
